@@ -32,5 +32,5 @@ Before running the application, make sure that Milvus server and MySQL server ar
 
 ### Storing Images
 
-![Storing Images](./workflow-images/Storing-images.jpg)
+![Storing Images](storeimage.PNG)
 
