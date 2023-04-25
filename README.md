@@ -32,5 +32,5 @@ Before running the application, make sure that Milvus server and MySQL server ar
 
 ### Storing Images
 
-![Storing Images](https://github.com/Harper2123/Image-Similarity-Search/blob/main/workflow-images/Storing-images.PNG)
+![Storing Images](./workflow-images/Storing-images.jpg)
 
