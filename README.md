@@ -31,6 +31,12 @@ Before running the application, make sure that Milvus server and MySQL server ar
 ## Workflow Diagram  
 
 ### Storing Images
+![storeimage](https://user-images.githubusercontent.com/75368570/234363818-9a06745f-19df-4412-8fc6-5fe0b2c3f406.PNG)
 
-![Storing Images](storeimage.PNG)
+
+
+
+### Searching Images
+![searchimage](https://user-images.githubusercontent.com/75368570/234363551-d6316790-1f55-483e-8dfc-18e1d1fd4a37.PNG)
+
 
